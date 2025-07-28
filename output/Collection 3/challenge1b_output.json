@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T08:41:07.776888"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:  •  Season chicken breasts with salt and pepper, then dredge in flour",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "•  Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings  Instructions:  •  In a skillet",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 1 teaspoon paprika  o 1 teaspoon salt  o 1/4 cup cilantro  •  Instructions:  o Soak beans overnight, then cook until t",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "•  2 large eggplants, sliced  •  1 cup breadcrumbs  •  1/2 cup grated Parmesan cheese  •  1 cup marinara sauce  •  1 cup",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "•  In a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin",
+      "importance_rank": 5,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Instructions:  •  Season chicken breasts with salt and pepper, then dredge in flour.  •  In a large skillet, heat olive oil and butter over medium heat.  •  Cook chicken until golden and cooked through, then set aside.  •  In the same skillet, sauté mushrooms until tender.  •  Add Marsala wine and chicken broth, simmer until reduced by half.  •  Return chicken to the skillet and coat with the sauce.  •  Garnish with chopped parsley and serve.      Chicken Tikka Masala  Ingredients:  •  1 pound chicken breast, cubed  •  1 cup yogurt  •  2 tablespoons lemon juice  •  2 cloves garlic, minced  •  1 teaspoon grated ginger  •  1 teaspoon cumin  •  1 teaspoon coriander  •  1 teaspoon turmeric  •  1 teaspoon paprika  •  1 teaspoon garam masala  •  1/2 cup heavy cream  •  1 can (14.5 ounces) diced ",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "•  Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings  Instructions:  •  In a skillet, cook ground beef over medium heat until browned.  •  Add diced onion and minced garlic, sauté until softened.  •  Stir in taco seasoning and water, simmer until thickened.  •  Serve beef mixture in taco shells or tortillas with desired toppings.        Lasagna  Ingredients:  •  1 pound ground beef  •  1 small onion, diced  •  2 cloves garlic, minced  •  1 jar (24 ounces) marinara sauce  •  1 can (15 ounces) ricotta cheese  •  1 egg  •  1/4 cup grated Parmesan cheese  •  1 teaspoon dried basil  •  1 teaspoon dried oregano  •  9 lasagna noodles, cooked  •  2 cups shredded mozzarella cheese  Instructions:  •  Preheat oven to 375°F (190°C).  •  In a skillet, cook ground bee",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1 teaspoon paprika  o 1 teaspoon salt  o 1/4 cup cilantro  •  Instructions:  o Soak beans overnight, then cook until tender.  o Sauté diced onion and minced garlic in olive oil until softened.  o Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes.  o Mix beans with tomato sauce and cook for 10 minutes.  o Stir in chopped cilantro and serve warm.    Macaroni and Cheese  •  Ingredients:  o 2 cups elbow macaroni  o 2 cups milk  o 2 tablespoons butter  o 2 tablespoons flour  o 2 cups shredded cheddar cheese  o 1 teaspoon salt  o 1/2 teaspoon pepper  •  Instructions:  o Cook macaroni according to package instructions, then drain.  o Melt butter in a saucepan, stir in flour to make a roux.  o Gradually add milk, stirring constantly until thickened.  o Add cheese, salt, and pep",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "•  2 large eggplants, sliced  •  1 cup breadcrumbs  •  1/2 cup grated Parmesan cheese  •  1 cup marinara sauce  •  1 cup mozzarella cheese, shredded  •  2 eggs, beaten  •  1/2 cup flour  •  1/4 cup olive oil  •  Salt and pepper to taste  Instructions:  •  Preheat oven to 375°F (190°C).  •  Season eggplant slices with salt and let sit for 30 minutes, then pat dry.  •  Dredge eggplant in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs  and grated Parmesan cheese.  •  Heat olive oil in a skillet over medium heat.  •  Cook eggplant until golden brown on both sides.  •  In a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese.  •  Repeat layers and top with remaining cheese.  •  Bake for 25-30 minutes until cheese is melted and bubbly.  •  Serve ",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "•  In a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin.  Marinate chicken in the mixture for at least 1 hour.  •  In a skillet, melt butter over medium heat.  •  Add marinated chicken and cook until browned.  •  Stir in tomato puree and simmer for 20 minutes.  •  Add heavy cream, season with salt and pepper, and simmer for another 10 minutes.  •  Garnish with cilantro and serve with rice or naan.        Chili Con Carne  Ingredients:  •  1 pound ground beef  •  1 small onion, diced  •  2 cloves garlic, minced  •  1 can (15 ounces) kidney beans, drained  •  1 can (14.5 ounces) diced tomatoes  •  1/4 cup tomato paste  •  1 cup beef broth  •  1 tablespoon chili powder  •  1 teaspoon cumin  •  1 teaspoon paprika  •  Salt and pepper to taste  •  Shredded cheese ",
+      "page_number": 5
+    }
+  ]
+}
